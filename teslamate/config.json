@@ -9,6 +9,7 @@
     "aarch64",
     "amd64"
   ],
+  "ports": "8000/tcp: 8000",
   "startup": "application",
   "boot": "auto",
   "ingress": true,
