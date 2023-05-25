@@ -11,7 +11,6 @@
   ],
   "startup": "application",
   "boot": "auto",
-  "ports" : "8000/tcp: 8000"
   "ingress": true,
   "panel_icon": "mdi:car-connected",
   "panel_title": "TeslaMate",
