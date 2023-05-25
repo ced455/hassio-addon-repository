@@ -59,7 +59,7 @@ schema:
   mqtt_namespace: str
   timezone: str
 map:
-  share:rw
+  - share:rw
 url: https://github.com/matt-FFFFFF/hassio-addon-repository/blob/master/teslamate/README.md
 image: mattffffff/teslamate-{arch}
 
