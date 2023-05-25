@@ -11,7 +11,7 @@ startup: application
 ports:
   4000/tcp: 4000
 boot: auto
-ingress: true
+ingress: false
 panel_icon: mdi:car-connected
 panel_title: TeslaMate
 options: 
